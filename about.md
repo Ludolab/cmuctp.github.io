@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About DIG
-subtitle: Learn more about the Data Interaction Group at Carnegie Mellon University.
-description: Learn more about the Data Interaction Group at Carnegie Mellon University.
+title: About the CTP
+subtitle: Learn more about the Center for Transformational Play at Carnegie Mellon University.
+description: Learn more about the Center for Transformational Play at Carnegie Mellon University.
 ---
 
 ## What Motivates Us
