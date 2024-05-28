@@ -1,8 +1,9 @@
-# Website for the CMU Data Interaction Group
+# Website prototype for the Center for Transformational Play
 
-Deployed at https://dig.cmu.edu/.
+Deployed at XXXXXXXX
 
-The setup is inspired by https://github.com/visdesignlab/visdesignlab.github.io and https://github.com/domoritz/domoritz.github.io. 
+This is a fork of: https://github.com/cmudig/cmudig.github.io <br>
+which was inspired by: https://github.com/visdesignlab/visdesignlab.github.io and https://github.com/domoritz/domoritz.github.io. 
 
 ## Run
 
