@@ -5,48 +5,39 @@ subtitle: Learn more about the Center for Transformational Play at Carnegie Mell
 description: Learn more about the Center for Transformational Play at Carnegie Mellon University.
 ---
 
-## What Motivates Us
+The Center for Transformational Play at Carnegie Mellon University brings
+together world-class expertise from across the university to design, build, and
+study transformational games. 
 
-We are passionate about helping people make sense of data. Data permeates many
-aspects of our lives today. Data scientists analyze data to provide
-information for data-driven decisions or scientific discoveries. Informed
-citizens use data to keep their representatives accountable. Machine learning
-engineers use data to train models that help us take better pictures, suggest
-people we may want to follow, or decides whether we get a loan. In our group,
-we want to use our expertise in system building and design to help everyone
-uncover insights in data and understand how data is used to make decisions
-that affect their lives.
+## Who We Are
 
-## History
+At the Center for Transformational Play (CTP) we use the power of play to tackle
+educational, industrial, and social challenges, from teaching children about
+robotics to helping adults with aphasia rehabilitation exercises. Other projects
+include playful methods to support climate action, games to help with healthy
+sleep, and leveraging game streaming for interactive learning — to give just a few
+of our many and diverse interests.
 
-Adam Perer and Dominik Moritz started our group in 2019 at the Human-Computer
-Interaction Institute at Carnegie Mellon University.
+CTP has the interdisciplinary expertise to connect across the university, including
+the educational gaming work at the [Human-Computer Interaction Institute](https://hcii.cmu.edu) (HCII)
+to the transformational game capstones at the [Entertainment Technology Center](https://www.etc.cmu.edu/)
+(ETC). We also collaborate with cutting-edge researchers in computer science,
+neuroscience, psychology, drama, and art — all areas where Carnegie Mellon’s
+excellence can help us advance our work on transformational play.
 
-## Logo
+## What We Do
 
-The DIG logo is the [CMU macot Scotty](https://athletics.cmu.edu/athletics/mascot/index) digging.
+- create award-winning game design and production
+- conduct research related to games
+- prototype new technologies for game development
+- host interdisciplinary workshops and seminars
+- define a visionary agenda for the future of transformational play
 
-## Our Values
+### For more information:
 
-**People matter.** Teams are more successful when everybody is
-happy. We are all human and strive for an inclusive environment. We care about
-work-life balance. We celebrate successes and learn from failures.
+**Faculty Lead: [Jessica Hammer](mailto:hammerj@andrew.cmu.edu)**
+- _Thomas and Lydia Moran Associate Professor of Learning Science_
+- _Human-Computer Interaction Institute_
+- _and Entertainment Technology Center_
 
-**Simple but not easy.** We strive to find simple solutions and
-principles to solve complex problem. Finding simple solutions doesn't mean
-it's easy but it means that the end result is usable and clearly communicated.
-
-**Execution matters.** There are a lot of good ideas but a good
-idea only becomes a successful idea when it is well-executed and clearly
-communicated. We care about meaningful impact.
-
-**Pragmatism over dogmatism.** Break rules when you have to and
-adjust your principles when it doesn't match reality.
-
-**We don't live in a bubble.** Scientists can't be in a bubble.
-We have to care about the societal, ecological, and economical impact of our
-work. We have to help fight discrimination, climate change, and poverty.
-
-**Process integrity over outcome achievement.** We care about doing things right
-and upholding our values. Success comes in many different forms and is
-influenced by factors we do not control.
+**[Information Sheet](/assets/ctp-info-sheet.pdf)**
