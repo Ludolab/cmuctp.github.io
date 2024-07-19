@@ -18,7 +18,7 @@ include playful methods to support climate action, games to help with healthy
 sleep, and leveraging game streaming for interactive learning — to give just a few
 of our many and diverse interests.
 
-CTP has the interdisciplinary expertise to connect across the university, including
+The CTP has the interdisciplinary expertise to connect across the university, including
 the educational gaming work at the [Human-Computer Interaction Institute](https://hcii.cmu.edu) (HCII)
 to the transformational game capstones at the [Entertainment Technology Center](https://www.etc.cmu.edu/)
 (ETC). We also collaborate with cutting-edge researchers in computer science,
@@ -27,17 +27,14 @@ excellence can help us advance our work on transformational play.
 
 ## What We Do
 
-- create award-winning game design and production
-- conduct research related to games
-- prototype new technologies for game development
-- host interdisciplinary workshops and seminars
-- define a visionary agenda for the future of transformational play
+- Create award-winning game design and production
+- Conduct research related to games
+- Prototype new technologies for game development
+- Host interdisciplinary workshops and seminars
+- Define a visionary agenda for the future of transformational play
 
 ### For more information:
 
-**Faculty Lead: [Jessica Hammer](mailto:hammerj@andrew.cmu.edu)**
-- _Thomas and Lydia Moran Associate Professor of Learning Science_
-- _Human-Computer Interaction Institute_
-- _and Entertainment Technology Center_
+Faculty Lead: [Jessica Hammer](mailto:hammerj@andrew.cmu.edu)
 
-**[Information Sheet](/assets/ctp-info-sheet.pdf)**
+[Information Sheet](/assets/ctp-info-sheet.pdf)
