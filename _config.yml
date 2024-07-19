@@ -15,8 +15,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   media and games. We aim for our work, to be joyful, effective, and valuable to
   those who engage with it.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ludolab.github.io/cmuctp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
+url: "https://ludolab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: cmuctp
 github_username: Ludolab
 
 sass:
@@ -29,8 +29,6 @@ collections:
     output: true
   people:
     output: false
-  courses:
-    output: true
 
 # Build settings
 markdown: kramdown
